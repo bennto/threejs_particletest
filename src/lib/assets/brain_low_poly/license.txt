@@ -1,0 +1,8 @@
+Model Information:
+* title:	Brain Low Poly
+* source:	https://sketchfab.com/3d-models/brain-low-poly-a249c205828a4509aa9fb2908e1b61b6
+* author:	omg3d (https://sketchfab.com/omg3d)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
